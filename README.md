@@ -8,6 +8,8 @@ def hello():
   return "hi"
 ```
 
+* This is the exact gist for you:  [how-to-code](https://gist.github.com/noahgift/7b9e2056b3a72c83c0f1abdb3c99259d)
+
 
 ### References
 
